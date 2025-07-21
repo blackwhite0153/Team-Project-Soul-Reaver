@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8857a270eb936a47bf0c1af11cdcaee, type: 3}
+  m_Name: Frozen Judgment Data
+  m_EditorClassIdentifier: 
+  Skill_ID: 
+  Skill_Icon: {fileID: 0}
+  Skill_Name: "\uBC29\uD558\uC758 \uC2EC\uD310"
+  Skill_Explanation: "\uB099\uD558\uD55C \uC5BC\uC74C \uC1A1\uACF3\uC774 \uC9C0\uBA74\uC5D0\uC11C
+    \uC0AC\uBC29\uC73C\uB85C \uD3B4\uC9C0\uBA70 \uD53C\uD574\uB97C \uC785\uD78C\uB2E4"
+  Type: 0
+  Skill_Level: 1
+  IsUnlocked: 1
+  CooldownTime: 0
+  CurrentCooldown: 0
+  ManaCost: 0
+  ImpactDamage: 0
+  ShardDamage: 0
+  ShardRadius: 0
+  FrozenPrefab: {fileID: 0}
+  FrozenSound: {fileID: 0}

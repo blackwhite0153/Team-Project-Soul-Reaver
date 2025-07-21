@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f8fe1cb97f27264e871759d89b9241e, type: 3}
+  m_Name: Curse of the Reaper Data
+  m_EditorClassIdentifier: 
+  Skill_ID: 
+  Skill_Icon: {fileID: 21300000, guid: d01b982b5379e824bb7e03f07271634e, type: 3}
+  Skill_Name: "\uC0AC\uC2E0\uC758 \uC800\uC8FC"
+  Skill_Explanation: "\uC77C\uC815 \uC2DC\uAC04 \uACF5\uACA9\uB825, \uBC29\uC5B4\uB825
+    \uAC10\uC18C"
+  Type: 3
+  Skill_Level: 1
+  IsUnlocked: 1
+  CooldownTime: 0
+  CurrentCooldown: 0
+  ManaCost: 0
+  AttackReductionPercent: 0
+  DefenseReductionPercent: 0
+  Duration: 0
+  CurseOfTheReaperEffectPrefab: {fileID: 5342598663758410687, guid: 30706e50ed6147444b06d4ee48342883, type: 3}
+  CurseOfTheReaperSound: {fileID: 0}

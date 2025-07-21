@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5200a62781ebbd2459cfd5ae37435093, type: 3}
+  m_Name: Forest Enemy
+  m_EditorClassIdentifier: 
+  enemy:
+  - {fileID: 4246816024996098408, guid: 0e534dc386c5ff045b4b4c1245021db8, type: 3}
+  - {fileID: 1683965577018975245, guid: 207f1538803b09e42bb778f56fd41a25, type: 3}
+  - {fileID: 9103629258761377257, guid: 3994ed5b09a3be743854ab4a1f7a1b75, type: 3}
+  - {fileID: 5294602913551762500, guid: f95f395fb1f138040a9e22c57ea7de4c, type: 3}
+  - {fileID: 3913930927490801945, guid: 94c5cbb7a6d08094383005116199464e, type: 3}
+  - {fileID: 2024941533335093149, guid: e3089e6978702d446a5faceac6480c8e, type: 3}
+  - {fileID: 4578154657085037519, guid: 6c4c043e72983354a9c1b18ed21a2860, type: 3}
+  - {fileID: 160509750619804815, guid: 1116d6b81554c1f4cb74ba46806c63a1, type: 3}
+  - {fileID: 91842673352945000, guid: 49831435ed882f343b41e2f4741cb805, type: 3}
+  boss:
+  - {fileID: 6845653256692005786, guid: 6f2cb53eb43823a4b919b2d2a4eac0c1, type: 3}

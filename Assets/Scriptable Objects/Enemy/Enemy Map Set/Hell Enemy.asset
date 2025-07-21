@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5200a62781ebbd2459cfd5ae37435093, type: 3}
+  m_Name: Hell Enemy
+  m_EditorClassIdentifier: 
+  enemy:
+  - {fileID: 8045632666773939907, guid: 3dc34c6e0039ee84490817dc82406728, type: 3}
+  - {fileID: 3382943637880655833, guid: f1b9392239191364b8b97d5e322ee867, type: 3}
+  - {fileID: 2011271456043598558, guid: 5cae73d84e6a0bb48a9b26e1515f4124, type: 3}
+  - {fileID: 8869182681176756612, guid: eebeab2fdb1313541b591c2d927b99c8, type: 3}
+  - {fileID: 1834602356572528394, guid: 3ad7556d074cd3b4a880f4c5265bd44e, type: 3}
+  - {fileID: 110184034393998167, guid: b1596549f93df3c478e8b52928b328d1, type: 3}
+  - {fileID: 4689447209717389567, guid: 86f402cbb41934f4786f795ab71b004e, type: 3}
+  - {fileID: 3410053335697459162, guid: a48843d6b8bd13449808050650c2ac25, type: 3}
+  - {fileID: 3309920080802949221, guid: 73a51e4b60775404fbfcfcdedeaaa53c, type: 3}
+  boss:
+  - {fileID: 668044203876853405, guid: a5cfac7d7ffe7a24aa2456b2dd3a233f, type: 3}

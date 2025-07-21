@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5137db12c2abe449f4988d5bf5a743, type: 3}
+  m_Name: ReproductionDataSo
+  m_EditorClassIdentifier: 
+  ItemImage: {fileID: -1798417553, guid: cd5456dd96fb0034db6ad0f79ae5f66e, type: 3}
+  ID: 705
+  Name: "\uC0DD\uBA85\uC758 \uB8EC"
+  Explanation: "\uC0DD\uBA85\uC758 \uAE30\uC6B4\uC774 \uB2F9\uC2E0\uC758 \uC548\uC5D0\uC11C
+    \uB04A\uC784\uC5C6\uC774 \uC21C\uD658\uD569\uB2C8\uB2E4. \uC804\uD22C \uC911\uC5D0\uB3C4
+    \uC9C0\uCE58\uC9C0 \uC54A\uACE0, \uD56D\uC0C1 \uCD5C\uC0C1\uC758 \uC0C1\uD0DC\uB97C
+    \uC720\uC9C0\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  healthReproduction: 12
+  manaReproduction: 5

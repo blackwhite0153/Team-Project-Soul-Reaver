@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1803f17c1eda9c842a357390b7cb4f5b, type: 3}
+  m_Name: Blessing of the Goddess Data
+  m_EditorClassIdentifier: 
+  Skill_ID: 
+  Skill_Icon: {fileID: 0}
+  Skill_Name: "\uC5EC\uC2E0\uC758 \uAC00\uD638"
+  Skill_Explanation: "\uC77C\uC815 \uC2DC\uAC04 \uB3D9\uC548 \uACF5\uACA9\uB825,
+    \uBC29\uC5B4\uB825 \uC99D\uAC00"
+  Type: 1
+  Skill_Level: 1
+  IsUnlocked: 1
+  CooldownTime: 0
+  CurrentCooldown: 0
+  ManaCost: 0
+  AttackIncreasePercent: 0
+  DefenseIncreasePercent: 0
+  Duration: 0
+  BuffEffectPrefab: {fileID: 0}
+  BuffSound: {fileID: 0}

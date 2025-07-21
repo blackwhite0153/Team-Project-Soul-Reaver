@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa1ae2f158fc654d8b6001019a2ae8d, type: 3}
+  m_Name: Baptism of Flame Data
+  m_EditorClassIdentifier: 
+  SlotIndex: 0
+  Skill_ID: 001
+  Skill_Icon: {fileID: 21300000, guid: c499f738be94ec14fb83b05dca298f2d, type: 3}
+  Skill_Name: "\uBD88\uC758 \uC138\uB840"
+  Skill_Explanation: "\uD558\uB298\uC5D0\uC11C \uC815\uC758\uAC00 \uBD88\uCC98\uB7FC
+    \uB5A8\uC5B4\uC9C4\uB2E4!\n\u2022 \uCD1D \uD53C\uD574\uB7C9: <color=red>20.0</color>
+    (\uC2A4\uD0AC 10.0 + \uACF5\uACA9\uB825 10.0)\n"
+  Type: 0
+  Skill_Level: 1
+  IsUnlocked: 0
+  CooldownTime: 5
+  CurrentCooldown: 0
+  Duration: 4
+  RemainingDuration: 0
+  ManaCost: 5
+  GoldCost: 1000
+  DamageScalingPerLevel: 0
+  Damage: 10
+  FinalDamage: 20
+  BaptismOfFlameEffectPrefab: {fileID: 5126592292871771697, guid: 90260605fce1d2949a45519f3f578590, type: 3}
+  BaptismOfFlameSound: {fileID: 0}
+  ApplyBurning: 1
+  BurnDamage: 0
+  BurnDuration: 0

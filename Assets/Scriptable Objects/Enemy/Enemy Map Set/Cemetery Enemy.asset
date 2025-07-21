@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5200a62781ebbd2459cfd5ae37435093, type: 3}
+  m_Name: Cemetery Enemy
+  m_EditorClassIdentifier: 
+  enemy:
+  - {fileID: 3598569244929849689, guid: 5a72d8dc3a18de94eb771c6c84bb3575, type: 3}
+  - {fileID: 3809918353229023183, guid: 5ba66ba8f7770fb44b54a42e06ad034a, type: 3}
+  - {fileID: 2237307681560200488, guid: 0dad7c47740dac947a9fe2b68704ce6e, type: 3}
+  - {fileID: 3895904105752544449, guid: c046748977727bf41a13934edbf7704c, type: 3}
+  - {fileID: 4046225551336464549, guid: 31dd836b5f59ea145a7dac0dfe7f962d, type: 3}
+  - {fileID: 2833057401255348834, guid: 272475e8be286fa4193dac97d55de11a, type: 3}
+  - {fileID: 6155763209162611279, guid: c427496b359a79642bd2d1d11d35db52, type: 3}
+  - {fileID: 996130817981543586, guid: cb67ecab3696f6c4c8c6028133839bbe, type: 3}
+  - {fileID: 2846048867518068537, guid: de40bf3508b2a744cb0f89a87c97a130, type: 3}
+  boss:
+  - {fileID: 2442313598231321447, guid: 98fe3b0618c88a549ae6897a1c4dc1e6, type: 3}

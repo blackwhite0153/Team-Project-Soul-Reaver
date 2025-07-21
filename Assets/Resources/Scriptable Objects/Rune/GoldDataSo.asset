@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4d1d383dc5f09b40bc7762478176265, type: 3}
+  m_Name: GoldDataSo
+  m_EditorClassIdentifier: 
+  ItemImage: {fileID: -1419144472, guid: cd5456dd96fb0034db6ad0f79ae5f66e, type: 3}
+  ID: 703
+  Name: "\uD589\uC6B4\uC758 \uB8EC"
+  Explanation: "\uBD80\uB97C \uB04C\uC5B4\uB2F9\uAE30\uB294 \uC2E0\uBE44\uD55C \uD798\uC774
+    \uAE43\uB4E4\uC5B4 \uC788\uC2B5\uB2C8\uB2E4. \uC774 \uB8EC\uACFC \uD568\uAED8\uB77C\uBA74
+    \uB2F9\uC2E0\uC758 \uC5EC\uC815\uC740 \uB354\uC6B1 \uD48D\uC694\uB85C\uC6CC\uC9C8
+    \uAC83\uC785\uB2C8\uB2E4."
+  goldEarned: 10

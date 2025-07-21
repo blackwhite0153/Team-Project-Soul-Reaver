@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d7f60ee210cdc049af1d993c16c7b11, type: 3}
+  m_Name: Hell
+  m_EditorClassIdentifier: 
+  mapName: Hell
+  materials:
+  - {fileID: 2100000, guid: 83276c6746a959549aff07e98dd12762, type: 2}
+  enemySetData: {fileID: 11400000, guid: 01dc1e9708c16734c9b155ebc164af33, type: 2}

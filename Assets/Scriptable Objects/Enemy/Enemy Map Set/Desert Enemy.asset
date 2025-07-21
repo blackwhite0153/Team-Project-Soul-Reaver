@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5200a62781ebbd2459cfd5ae37435093, type: 3}
+  m_Name: Desert Enemy
+  m_EditorClassIdentifier: 
+  enemy:
+  - {fileID: 5168190937988678241, guid: e3ec8bb55a78e2941b77ab91c388d2c4, type: 3}
+  - {fileID: 2816975038957145544, guid: de34adc06d3500046bcd71c2b15733bd, type: 3}
+  - {fileID: 6279056869734774655, guid: 844e027d6e1a2974f8a634b84b98bc14, type: 3}
+  - {fileID: 7309813695891854856, guid: 40db937cb8ec7f74dae066253e385492, type: 3}
+  - {fileID: 7621557592827454614, guid: 52e78841f74743741952616afab61693, type: 3}
+  - {fileID: 330825283014742934, guid: bab5e968d5600c245887e7c01de3b7da, type: 3}
+  - {fileID: 193772019038300735, guid: ab0efb64fae42b047a3ad044ee840305, type: 3}
+  - {fileID: 3466552029260741845, guid: 7e8541e0ff74e334491cca265645cea8, type: 3}
+  - {fileID: 7915777450883025109, guid: a28449d16a89b4c4da1a07b5543c4a7f, type: 3}
+  - {fileID: 7149217084298656600, guid: 3095a562c23e0974d99ba3528ad2d09a, type: 3}
+  - {fileID: 7429517388267091766, guid: f4c11602d2a9e48498d0faac2624dcfd, type: 3}
+  - {fileID: 1377581846816114213, guid: 59f20dd135411dc479f3e2e95e7488d2, type: 3}
+  - {fileID: 2671700843855281753, guid: f82a675e86eca64488d80c44aee1b7f8, type: 3}
+  - {fileID: 248831224265899419, guid: a0c3b097eef33f34b9f3a19228b865f5, type: 3}
+  - {fileID: 2869554639616234662, guid: 27b6a936e26c0bc4abeec97c580cdd3c, type: 3}
+  - {fileID: 6521743532540140989, guid: bfbe52d14b7dde34e8784c9fa64c0218, type: 3}
+  boss:
+  - {fileID: 7041361428571383953, guid: 1f14ac3f306acbd4dabf9270f89c56d1, type: 3}

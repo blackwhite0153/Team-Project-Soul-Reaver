@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79102a642eb2fe3498b83290920a5bff, type: 3}
+  m_Name: ArmorTopD
+  m_EditorClassIdentifier: 
+  ItemImage: {fileID: 21300000, guid: 15f306496ab25f3409589b05e4dd0bd9, type: 3}
+  ID: 102
+  Name: "\uAE30\uC0AC \uC0C1\uC758"
+  Explanation: "\uAE30\uC0AC\uB4E4\uC774 \uC990\uACA8\uC785\uB294 \uAC11\uC637."
+  grade: 1
+  IsUnlocked: 0
+  Defense: 50
+  HpRegen: 50
+  MpRegen: 50

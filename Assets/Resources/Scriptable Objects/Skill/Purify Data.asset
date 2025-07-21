@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee78407eb90bab14cbdb94422404804a, type: 3}
+  m_Name: Purify Data
+  m_EditorClassIdentifier: 
+  SlotIndex: 0
+  Skill_ID: 
+  Skill_Icon: {fileID: 0}
+  Skill_Name: "\uC815\uD654"
+  Skill_Explanation: "\uBC94\uC704 \uB0B4 \uC801\uB4E4\uC744 \uC815\uD654\uD55C\uB2E4."
+  Type: 0
+  Skill_Level: 1
+  IsUnlocked: 1
+  CooldownTime: 5
+  CurrentCooldown: 0
+  Duration: 4
+  RemainingDuration: 0
+  ManaCost: 0
+  Damage: 0
+  PurifyPrefab: {fileID: 7922632420982524042, guid: 1f8e19b102f6ef34c85444b8f490639d, type: 3}
+  PurifySound: {fileID: 0}

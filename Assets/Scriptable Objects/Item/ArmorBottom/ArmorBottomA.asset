@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f9f2e35adcfbc44886f60fa499e30aa, type: 3}
+  m_Name: ArmorBottomA
+  m_EditorClassIdentifier: 
+  ItemImage: {fileID: 21300000, guid: 2b8c10f11c4cd2a4588a333aa8b91efa, type: 3}
+  ID: 205
+  Name: "\uC77C\uBC18 \uD558\uC758"
+  Explanation: "\uC77C\uBC18\uC801\uC778 \uD558\uC758\uC774\uB2E4."
+  grade: 3
+  IsUnlocked: 0
+  Defense: 1
+  Hp: 1
+  Mp: 1
